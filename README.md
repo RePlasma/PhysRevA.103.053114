@@ -1,4 +1,4 @@
-# Reaching high laser intensity by a radiating electron, PHYSICAL REVIEW A 103, 053114 (2021)
+# Reaching high laser intensity by a radiating electron
 
 Link to paper: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.053114
 
